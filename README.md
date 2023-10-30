@@ -4,6 +4,8 @@
 
 This module provides plugin interfaces for ProductOfferServicePointAvailability module extension.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
